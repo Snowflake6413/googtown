@@ -1,0 +1,23 @@
+body {
+    font-family: "JetBrains Mono", monospace;
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.pill-button {
+    background-color: #333333;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 9999px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: "JetBrains Mono", monospace;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+
+.pill-button:hover {
+    background-color: #555555;
+}
